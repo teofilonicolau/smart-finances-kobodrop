@@ -1,5 +1,6 @@
 # Smart Finances Kobodrop
-https://youtu.be/1xmGS2tf8Po
+ - Página da aplicação:
+ - https://smart-finances-kobodrop.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/29997add-5f21-4a23-b941-5dda1f08614a)
 
